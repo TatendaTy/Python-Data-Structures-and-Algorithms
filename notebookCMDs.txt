@@ -1,0 +1,9 @@
+-> pip install jovian --upgrade
+
+-> python -m jovian clone aakashns/python-binary-search 
+-> cd python-binary-search
+
+-> conda create -n python-binary-search jupyter
+
+-> conda activate python-binary-search
+-> jupyter notebook
